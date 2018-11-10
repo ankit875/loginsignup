@@ -1,4 +1,4 @@
-const API_BASE_URL =  'http://localhost:3001';
+const API_BASE_URL =  'http://18.191.158.208:3001';
 
 
 export const userLogin = async(data, callback) => {
